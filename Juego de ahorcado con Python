@@ -1,0 +1,4 @@
+Programa que realiza la simulación del juego del ahorcado en lenguaje de programación Python.
+
+
+El programa (main.py) pide al jugador adivinar una palabra en maximo 6 intentos, la palabra a adivinar es tomada de una lista de palabras prederminada (palabras.py).
